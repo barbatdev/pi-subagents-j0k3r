@@ -614,3 +614,8 @@ npm run check
 - `README.md` — package usage, configuration, and development notes.
 - `skills/subagents-configuration/SKILL.md` — subagent configuration policy.
 - Pi package docs — `docs/packages.md` in the Pi coding-agent distribution.
+---
+
+<a href="https://github.com/Gentleman-Programming/gentle-ai">
+  <img width="220" src="https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/docs/assets/brand/built-with-gentle-ai.png" alt="Built with Gentle-AI" />
+</a>
